@@ -1,7 +1,7 @@
 # ReactJS - Create React App
 # 
  Instale o NodeJs;
- Abra o terminal ou Editor de preferência # VScode . :)
+ Abra o terminal ou Editor de preferência # VScode . :) </br>
  Crie a pasta do seu projeto # (mkdir projeto/)
  Acesse a pasta # (cd /projeto);
 
