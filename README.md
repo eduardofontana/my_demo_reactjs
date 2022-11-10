@@ -17,9 +17,6 @@
 #
  ✔️ Parar o servidor --> Control + C</br>
 #
-#
-#
  ✔️ Fim</br>
-#
 #
 print("Hello World !")</br>
