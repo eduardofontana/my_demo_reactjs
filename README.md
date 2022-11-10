@@ -5,20 +5,22 @@
  ✔️ Crie a pasta do seu projeto (mkdir projeto/)</br>
  ✔️ Acesse a pasta (cd /projeto)</br>
 #
-# Comando para instalar os arquivos:</br>
+# 1 - Comando para instalar os arquivos:</br>
  🟢 npx create-react-app "my_site" --> Aguarde ...</br>
 #
-# Acesse a pasta:</br>
+# 2 - Acesse a pasta:</br>
  ✔️ /projeto/my_site</br>
 #
-# Abra o Browser de sua preferência</br>
+# 3 - Abra o Browser de sua preferência</br>
   🔕 O browser necessita estar aberto</br>
 #
-# Startar o server:</br>
+# 4 - Startar o server:</br>
 #
  🟢 npm start</br>
 #
- ✔️ Parar o servidor --> Control + C</br>
+# 5 - Parar o servidor --></br>
+#
+ ✔️Control + C</br>
 #
  ✔️ Fim</br>
 #
