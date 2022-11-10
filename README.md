@@ -6,7 +6,8 @@
  ✔️ Acesse a pasta (cd /projeto)</br>
 #
 # 1 - Comando para instalar os arquivos:</br>
- 🟢 npx create-react-app "my_site" --> Aguarde ...</br>
+ 🟢 npx create-react-app "my_site"</br>
+ 🔕 Aguarde ...</br>
 #
 # 2 - Acesse a pasta:</br>
  ✔️ /projeto/my_site</br>
