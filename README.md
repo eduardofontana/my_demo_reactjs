@@ -1,25 +1,25 @@
 # 💻 ReactJS - Create React App
 # 
- ✔️ Instale o NodeJs;
+ ✔️ Instale o NodeJs</br>
  ✔️ Abra o terminal ou Editor de preferência VScode . :) </br>
- ✔️ Crie a pasta do seu projeto (mkdir projeto/)
- ✔️ Acesse a pasta (cd /projeto);
+ ✔️ Crie a pasta do seu projeto (mkdir projeto/)</br>
+ ✔️ Acesse a pasta (cd /projeto)</br>
 
-# Comando para instalar os arquivos:
- 🟢 npx create-react-app "my_site" --> Aguarde ...
+# Comando para instalar os arquivos:</br>
+ 🟢 npx create-react-app "my_site" --> Aguarde ...</br>
 
-# Acesse a pasta /projeto/my_site
-# Abra o Browser de sua preferência
+# Acesse a pasta /projeto/my_site</br>
+# Abra o Browser de sua preferência</br>
 
-# Comando startar o server:
+# Comando startar o server:</br>
 #
- 🟢 npm start
+ 🟢 npm start</br>
 #
- ✔️ Parar o servidor --> Control + C
-#
-#
-#
- ✔️ Fim
+ ✔️ Parar o servidor --> Control + C</br>
 #
 #
-print("Hello World !")
+#
+ ✔️ Fim</br>
+#
+#
+print("Hello World !")</br>
